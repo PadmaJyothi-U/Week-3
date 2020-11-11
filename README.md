@@ -14,7 +14,7 @@
 ![Jarvis Design](https://github.com/PadmaJyothi-U/Week-3/blob/main/flask%20workflow.jpg)
 
 ## Youtube link for my bot
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://www.youtube.com/watch?v=uQLwMbKEmrs)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://youtu.be/X4pWJ2jluQ4)
 
 ## Description
 * Name of the bot - **Jarvis**
