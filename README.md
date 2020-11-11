@@ -9,7 +9,7 @@
 3.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
 ## Heroku deployment
-![Deployment] (https://vishnutodoapp.herokuapp.com/)
+![Deployment](https://vishnutodoapp.herokuapp.com/)
 ## Design model 
 ![Jarvis Design](https://github.com/PadmaJyothi-U/Week-3/blob/main/flask%20workflow.jpg)
 
