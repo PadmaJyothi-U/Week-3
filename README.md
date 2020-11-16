@@ -16,6 +16,11 @@
 ## Youtube link for my bot
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://youtu.be/X4pWJ2jluQ4)
 
+## Output images
+![Jarvis Design1](https://github.com/PadmaJyothi-U/Week-3/blob/main/1st.png)
+![Jarvis Design2](https://github.com/PadmaJyothi-U/Week-3/blob/main/2nd.png)
+![Jarvis Design3](https://github.com/PadmaJyothi-U/Week-3/blob/main/3rd.png)
+![Jarvis Design4](https://github.com/PadmaJyothi-U/Week-3/blob/main/4th.png)
 ## Description
 * Name of the bot - **Jarvis**
 * Bot will send a **welcome message** to the user or a customer by asking the name.
